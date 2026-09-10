@@ -1,6 +1,6 @@
 ---
 name: Feature request / Предложение
-aBout: Предложить улучшение RiderGuild / Suggest an improvement for RiderGuild
+about: Предложить улучшение RiderGuild / Suggest an improvement for RiderGuild
 title: "[FEATURE] "
 labels: "enhancement"
 assignees: ""
