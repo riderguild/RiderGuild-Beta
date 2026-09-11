@@ -15,15 +15,19 @@
 - что вы делали непосредственно перед проблемой;
 - повторяется ли ошибка.
 
-Для воспроизводимого бага создайте **GitHub Issue** через шаблон Bug report.
+Для воспроизводимого бага используйте **[форму Bug report](https://github.com/riderguild/RiderGuild-Beta/issues/new?template=bug_report.yml)**.
+
+### Если хотите предложить улучшение
+
+Используйте **[Feature request](https://github.com/riderguild/RiderGuild-Beta/issues/new?template=feature_request.yml)**.
 
 ### Если вопрос не является багом
 
-Для оперативных вопросов тестеров используется сообщество **RiderGuild | Beta Testers**.
+Задайте его в **[GitHub Discussions](https://github.com/riderguild/RiderGuild-Beta/discussions)**. Для оперативного общения тестеров также используется сообщество **RiderGuild | Beta Testers**.
 
 ### Если проблема касается личных данных или безопасности
 
-Не публикуйте чувствительные сведения в открытом Issue. Сначала ознакомьтесь с [SECURITY.md](SECURITY.md) и [PRIVACY.md](PRIVACY.md).
+Не публикуйте чувствительные сведения в открытом Issue или Discussion. Используйте **[закрытое сообщение об уязвимости](https://github.com/riderguild/RiderGuild-Beta/security/advisories/new)** и ознакомьтесь с [SECURITY.md](SECURITY.md) и [PRIVACY.md](PRIVACY.md).
 
 ### Полезные материалы
 
@@ -47,15 +51,19 @@ Please record:
 - what you were doing immediately before the problem;
 - whether the issue is reproducible.
 
-For a reproducible bug, create a **GitHub Issue** using the Bug report template.
+For a reproducible bug, use the **[Bug report form](https://github.com/riderguild/RiderGuild-Beta/issues/new?template=bug_report.yml)**.
+
+### If you want to suggest an improvement
+
+Use **[Feature request](https://github.com/riderguild/RiderGuild-Beta/issues/new?template=feature_request.yml)**.
 
 ### If your question is not a bug
 
-The **RiderGuild | Beta Testers** community is used for day-to-day tester questions.
+Ask it in **[GitHub Discussions](https://github.com/riderguild/RiderGuild-Beta/discussions)**. The **RiderGuild | Beta Testers** community is also used for day-to-day tester communication.
 
 ### If the issue involves personal data or security
 
-Do not publish sensitive information in a public Issue. Review [SECURITY.md](SECURITY.md) and [PRIVACY.md](PRIVACY.md) first.
+Do not publish sensitive information in a public Issue or Discussion. Use **[Private vulnerability reporting](https://github.com/riderguild/RiderGuild-Beta/security/advisories/new)** and review [SECURITY.md](SECURITY.md) and [PRIVACY.md](PRIVACY.md).
 
 ### Useful documents
 
