@@ -14,7 +14,7 @@
 
 </div>
 
-> **Public testing hub.** Здесь публикуются материалы для тестеров RiderGuild. Исходный код, серверные конфигурации и внутренние данные разработки здесь не размещаются.  
+> **Публичный центр тестирования.** Здесь публикуются материалы для тестеров RiderGuild. Исходный код, серверные конфигурации и внутренние данные разработки здесь не размещаются.  
 > **Public testing hub.** This repository contains materials for RiderGuild testers. Source code, server configuration, and internal development data are not published here.
 
 ---
@@ -31,7 +31,7 @@
 
 ### Быстрые ссылки / Quick links
 
-[**Скачать APK / Download APK**](https://github.com/riderguild/RiderGuild-Beta/releases/download/v1.8.0-beta.12/RiderGuild-1.8.0-beta.12-build42-release.apk) · [**Сообщить об ошибке / Report a bug**](https://github.com/riderguild/RiderGuild-Beta/issues/new?template=bug_report.yml) · [**Предложить улучшение / Suggest a feature**](https://github.com/riderguild/RiderGuild-Beta/issues/new?template=feature_request.yml) · [**Обсуждения / Discussions**](https://github.com/riderguild/RiderGuild-Beta/discussions) · [**Что тестировать / Testing Guide**](TESTING.md) · [**Changelog**](CHANGELOG.md) · [**FAQ**](FAQ.md) · [**Поддержка / Support**](SUPPORT.md) · [**Приватность / Privacy**](PRIVACY.md) · [**Security**](SECURITY.md)
+[**Скачать APK / Download APK**](https://github.com/riderguild/RiderGuild-Beta/releases/download/v1.8.0-beta.12/RiderGuild-1.8.0-beta.12-build42-release.apk) · [**Сообщить об ошибке / Report a bug**](https://github.com/riderguild/RiderGuild-Beta/issues/new?template=bug_report.yml) · [**Предложить улучшение / Suggest a feature**](https://github.com/riderguild/RiderGuild-Beta/issues/new?template=feature_request.yml) · [**Обсуждения / Discussions**](https://github.com/riderguild/RiderGuild-Beta/discussions) · [**Что тестировать / Testing Guide**](TESTING.md) · [**История изменений / Changelog**](CHANGELOG.md) · [**FAQ**](FAQ.md) · [**Поддержка / Support**](SUPPORT.md) · [**Приватность / Privacy**](PRIVACY.md) · [**Безопасность / Security**](SECURITY.md) · [**Правила сообщества / Community Guidelines**](CODE_OF_CONDUCT.md)
 
 ---
 
@@ -93,6 +93,7 @@ APK публикуется в разделе **Releases** этого репоз�
 | [SUPPORT.md](SUPPORT.md) | Куда обращаться и что приложить |
 | [PRIVACY.md](PRIVACY.md) | Правила приватности при тестировании |
 | [SECURITY.md](SECURITY.md) | Как сообщать о проблемах безопасности |
+| [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | Правила публичного сообщества |
 
 Для оперативного общения используется сообщество **RiderGuild | Beta Testers**. Подтверждённые воспроизводимые ошибки лучше фиксировать в GitHub Issues, чтобы они не терялись.
 
@@ -156,6 +157,7 @@ See **[BUG_REPORT.md](BUG_REPORT.md)** for details. General questions and ideas 
 | [SUPPORT.md](SUPPORT.md) | Where to ask for help and what to include |
 | [PRIVACY.md](PRIVACY.md) | Privacy rules for public testing |
 | [SECURITY.md](SECURITY.md) | How to report security-related issues |
+| [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | Public community guidelines |
 
 The **RiderGuild | Beta Testers** community is used for day-to-day communication. Confirmed reproducible bugs should preferably be recorded in GitHub Issues so they are not lost.
 
