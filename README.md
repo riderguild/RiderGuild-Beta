@@ -94,6 +94,7 @@ APK публикуется в разделе **Releases** этого репоз�
 | [PRIVACY.md](PRIVACY.md) | Правила приватности при тестировании |
 | [SECURITY.md](SECURITY.md) | Как сообщать о проблемах безопасности |
 | [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | Правила публичного сообщества |
+| [LICENSE.md](LICENSE.md) | Условия использования публичных материалов RiderGuild-Beta |
 
 Для оперативного общения используется сообщество **RiderGuild | Beta Testers**. Подтверждённые воспроизводимые ошибки лучше фиксировать в GitHub Issues, чтобы они не терялись.
 
@@ -158,6 +159,7 @@ See **[BUG_REPORT.md](BUG_REPORT.md)** for details. General questions and ideas 
 | [PRIVACY.md](PRIVACY.md) | Privacy rules for public testing |
 | [SECURITY.md](SECURITY.md) | How to report security-related issues |
 | [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | Public community guidelines |
+| [LICENSE.md](LICENSE.md) | Terms for using RiderGuild-Beta public materials |
 
 The **RiderGuild | Beta Testers** community is used for day-to-day communication. Confirmed reproducible bugs should preferably be recorded in GitHub Issues so they are not lost.
 
