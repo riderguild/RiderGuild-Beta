@@ -21,15 +21,15 @@
 
 | | |
 |---|---|
-| **Текущая версия / Current version** | `1.8.0-beta.11` |
-| **Build** | `40` |
+| **Текущая версия / Current version** | `1.8.0-beta.12` |
+| **Build** | `42` |
 | **Платформа / Platform** | Android |
-| **APK** | Готовится к публикации в Releases / Preparing for publication in Releases |
-| **Стадия / Stage** | Public Beta |
+| **APK** | Доступен в Releases / Available in Releases |
+| **Стадия / Stage** | Public Beta / Pre-release |
 
 ### Быстрые ссылки / Quick links
 
-[**Что тестировать / Testing Guide**](TESTING.md) · [**Changelog**](CHANGELOG.md) · [**Сообщить об ошибке / Report a bug**](BUG_REPORT.md) · [**FAQ**](FAQ.md) · [**Поддержка / Support**](SUPPORT.md) · [**Приватность / Privacy**](PRIVACY.md) · [**Security**](SECURITY.md)
+[**Releases / Скачать APK**](https://github.com/riderguild/RiderGuild-Beta/releases) · [**Что тестировать / Testing Guide**](TESTING.md) · [**Changelog**](CHANGELOG.md) · [**Сообщить об ошибке / Report a bug**](BUG_REPORT.md) · [**FAQ**](FAQ.md) · [**Поддержка / Support**](SUPPORT.md) · [**Приватность / Privacy**](PRIVACY.md) · [**Security**](SECURITY.md)
 
 ---
 
@@ -41,21 +41,21 @@
 
 ## Текущая beta
 
-**RiderGuild 1.8.0-beta.11 — build 40**
+**RiderGuild 1.8.0-beta.12 — build 42**
 
 RiderGuild находится в активной разработке. Beta-сборки могут содержать ошибки, незавершённые функции и изменения интерфейса.
 
 ## Установка Android beta
 
-APK будет публиковаться в разделе **Releases** этого репозитория. Когда сборка появится:
+APK публикуется в разделе **Releases** этого репозитория.
 
 1. Откройте **Releases**.
 2. Выберите последнюю beta-версию.
-3. Скачайте APK.
+3. В блоке **Assets** скачайте APK.
 4. Если Android запросит разрешение, разрешите установку приложений из используемого источника.
 5. Установите APK поверх предыдущей beta или как новую установку.
 
-Пока в Releases нет APK, публичная сборка ещё не загружена.
+Текущая публичная сборка: **1.8.0-beta.12 — build 42**.
 
 ## Что особенно важно тестировать
 
@@ -104,21 +104,21 @@ APK будет публиковаться в разделе **Releases** это�
 
 ## Current beta
 
-**RiderGuild 1.8.0-beta.11 — build 40**
+**RiderGuild 1.8.0-beta.12 — build 42**
 
 RiderGuild is under active development. Beta builds may contain bugs, unfinished features, and interface changes.
 
 ## Installing the Android beta
 
-The APK will be published in the repository **Releases** section. Once a build is available:
+The APK is published in the repository **Releases** section.
 
 1. Open **Releases**.
 2. Select the latest beta version.
-3. Download the APK.
+3. Download the APK from **Assets**.
 4. If Android asks, allow installation from the source you are using.
 5. Install the APK over the previous beta or as a fresh installation.
 
-If no APK is present in Releases yet, the public build has not been uploaded yet.
+Current public build: **1.8.0-beta.12 — build 42**.
 
 ## What is especially useful to test
 
