@@ -1,0 +1,75 @@
+name: "Feature request / Предложение"
+description: "Предложить улучшение RiderGuild / Suggest an improvement for RiderGuild"
+title: "[FEATURE] "
+labels:
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Русский
+        Спасибо за идею по развитию RiderGuild. Опишите проблему и желаемый результат с точки зрения пользователя.
+
+        Не публикуйте личные данные, номера телефонов, точные текущие координаты, токены, ключи, пароли или приватные переписки.
+
+        ---
+
+        ## English
+        Thank you for helping improve RiderGuild. Please describe the user problem and the desired outcome.
+
+        Do not publish personal data, phone numbers, precise current location coordinates, tokens, keys, passwords, or private conversations.
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: "Что предлагаете? / What are you suggesting?"
+      description: "Кратко опишите идею или улучшение / Briefly describe the idea or improvement"
+      placeholder: "Например: добавить ... / Example: add ..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: "Какую проблему это решает? / What problem would it solve?"
+      description: "Опишите ситуацию, в которой эта функция была бы полезна райдеру или сообществу / Describe when this would be useful to a rider or community"
+    validations:
+      required: true
+
+  - type: textarea
+    id: desired_behavior
+    attributes:
+      label: "Как вы представляете решение? / What would the ideal behavior look like?"
+      description: "Опишите желаемое поведение без необходимости предлагать техническую реализацию / Describe the desired user experience without needing to propose a technical implementation"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: "Раздел приложения / App area"
+      description: "Выберите наиболее подходящий раздел / Choose the closest app area"
+      options:
+        - "Карта и геолокация / Map and geolocation"
+        - "Клубы и сообщества / Clubs and communities"
+        - "Маршруты и события / Routes and events"
+        - "SOS и Live Location"
+        - "Уведомления / Notifications"
+        - "Профиль / Profile"
+        - "Другое / Other"
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: "Дополнительно / Additional context"
+      description: "При необходимости приложите безопасный пример или макет без личных данных / If useful, attach a safe example or mockup without personal data"
+
+  - type: checkboxes
+    id: privacy_confirmation
+    attributes:
+      label: "Подтверждение безопасности / Privacy confirmation"
+      options:
+        - label: "Я проверил(а), что в предложении и вложениях нет личных данных, номеров телефонов, точных текущих координат, токенов, ключей, паролей или приватных переписок. / I checked that the request and attachments contain no personal data, phone numbers, precise current location coordinates, tokens, keys, passwords, or private conversations."
+          required: true
