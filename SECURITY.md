@@ -17,13 +17,23 @@
 
 ### Не публикуйте чувствительные детали в открытом Issue
 
-Если вы подозреваете проблему безопасности или приватности, не размещайте публично рабочие токены, пароли, ключи, реальные номера телефонов, точные координаты или другие данные, которые могут причинить вред пользователям.
+Если вы подозреваете проблему безопасности или приватности, не размещайте её детали в публичном Issue или Discussion.
 
-Сначала сообщите о проблеме через закрытый канал связи тестовой команды **RiderGuild | Beta Testers**. После оценки проблемы мы при необходимости создадим безопасное публичное описание без чувствительных деталей.
+Используйте **[закрытое сообщение об уязвимости / Private vulnerability report](https://github.com/riderguild/RiderGuild-Beta/security/advisories/new)**.
+
+Не публикуйте рабочие токены, пароли, ключи, реальные номера телефонов, точные текущие координаты, приватные переписки и другие данные, которые могут причинить вред пользователям.
 
 ### Что указать в сообщении
 
-По возможности сообщите версию RiderGuild, build, модель телефона, Android, шаги воспроизведения и ожидаемый результат. Не прикладывайте реальные секреты, если для подтверждения проблемы достаточно их замаскированной формы.
+По возможности сообщите:
+
+- версию RiderGuild и build;
+- модель телефона и версию Android;
+- шаги воспроизведения;
+- ожидаемое и фактическое поведение;
+- насколько легко воспроизвести проблему.
+
+Не прикладывайте реальные секреты, если для подтверждения проблемы достаточно замаскированной формы.
 
 ---
 
@@ -42,10 +52,20 @@ Examples include:
 
 ### Do not publish sensitive details in a public Issue
 
-If you suspect a security or privacy problem, do not publicly post working tokens, passwords, keys, real phone numbers, precise coordinates, or other information that could put users at risk.
+If you suspect a security or privacy issue, do not post its details in a public Issue or Discussion.
 
-Report the issue first through the private **RiderGuild | Beta Testers** team channel. After the issue is assessed, a safe public description can be created if appropriate.
+Use **[Private vulnerability reporting](https://github.com/riderguild/RiderGuild-Beta/security/advisories/new)**.
+
+Do not publish working tokens, passwords, keys, real phone numbers, precise current location coordinates, private conversations, or other information that could put users at risk.
 
 ### What to include
 
-When possible, include the RiderGuild version, build, phone model, Android version, reproduction steps, and expected result. Do not include real secrets when a redacted form is sufficient to demonstrate the issue.
+When possible, include:
+
+- RiderGuild version and build;
+- phone model and Android version;
+- reproduction steps;
+- expected and actual behavior;
+- how reliably the issue can be reproduced.
+
+Do not include real secrets when a redacted form is sufficient to demonstrate the issue.
