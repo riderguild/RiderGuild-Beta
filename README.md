@@ -31,7 +31,7 @@
 
 ### Быстрые ссылки / Quick links
 
-[**Releases / Скачать APK**](https://github.com/riderguild/RiderGuild-Beta/releases) · [**Что тестировать / Testing Guide**](TESTING.md) · [**Changelog**](CHANGELOG.md) · [**Сообщить об ошибке / Report a bug**](BUG_REPORT.md) · [**FAQ**](FAQ.md) · [**Поддержка / Support**](SUPPORT.md) · [**Приватность / Privacy**](PRIVACY.md) · [**Security**](SECURITY.md)
+[**Скачать APK / Download APK**](https://github.com/riderguild/RiderGuild-Beta/releases/download/v1.8.0-beta.12/RiderGuild-1.8.0-beta.12-build42-release.apk) · [**Сообщить об ошибке / Report a bug**](https://github.com/riderguild/RiderGuild-Beta/issues/new?template=bug_report.yml) · [**Предложить улучшение / Suggest a feature**](https://github.com/riderguild/RiderGuild-Beta/issues/new?template=feature_request.yml) · [**Обсуждения / Discussions**](https://github.com/riderguild/RiderGuild-Beta/discussions) · [**Что тестировать / Testing Guide**](TESTING.md) · [**Changelog**](CHANGELOG.md) · [**FAQ**](FAQ.md) · [**Поддержка / Support**](SUPPORT.md) · [**Приватность / Privacy**](PRIVACY.md) · [**Security**](SECURITY.md)
 
 ---
 
@@ -74,13 +74,13 @@ APK публикуется в разделе **Releases** этого репоз�
 
 ## Нашли ошибку?
 
-Используйте вкладку **Issues** и шаблон **Bug report**. Перед созданием отчёта проверьте, не сообщал ли уже кто-то о той же проблеме.
+Откройте **[форму Bug report](https://github.com/riderguild/RiderGuild-Beta/issues/new?template=bug_report.yml)**. Перед созданием отчёта проверьте, не сообщал ли уже кто-то о той же проблеме.
 
 Хороший отчёт содержит версию и build, модель телефона, версию Android, точные шаги воспроизведения, ожидаемый результат, фактический результат и при необходимости безопасный скриншот или запись экрана.
 
 **Не публикуйте** номера телефонов, реальные текущие координаты, токены, пароли, приватные переписки и другие чувствительные данные.
 
-Подробнее: **[BUG_REPORT.md](BUG_REPORT.md)**.
+Подробнее: **[BUG_REPORT.md](BUG_REPORT.md)**. Общие вопросы и идеи можно обсуждать в **[Discussions](https://github.com/riderguild/RiderGuild-Beta/discussions)**.
 
 ## Документы
 
@@ -137,13 +137,13 @@ Full checklist: **[TESTING.md](TESTING.md)**.
 
 ## Found a bug?
 
-Use the **Issues** tab and the **Bug report** template. Before opening a new report, check whether the same issue has already been reported.
+Open the **[Bug report form](https://github.com/riderguild/RiderGuild-Beta/issues/new?template=bug_report.yml)**. Before opening a new report, check whether the same issue has already been reported.
 
 A useful report includes the app version and build, phone model, Android version, exact reproduction steps, expected behavior, actual behavior, and—when helpful—a safe screenshot or screen recording.
 
 **Do not publish** phone numbers, precise live coordinates, tokens, passwords, private conversations, or other sensitive information.
 
-See **[BUG_REPORT.md](BUG_REPORT.md)** for details.
+See **[BUG_REPORT.md](BUG_REPORT.md)** for details. General questions and ideas belong in **[Discussions](https://github.com/riderguild/RiderGuild-Beta/discussions)**.
 
 ## Documents
 
