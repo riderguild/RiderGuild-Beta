@@ -8,6 +8,8 @@
 ![Beta](https://img.shields.io/badge/status-Public%20Beta-orange)
 ![Languages](https://img.shields.io/badge/docs-RU%20%7C%20EN-blue)
 
+### [⬇️ Скачать последнюю APK / Download latest APK](https://github.com/riderguild/RiderGuild-Beta/releases/download/v1.8.0-beta.12/RiderGuild-1.8.0-beta.12-build42-release.apk)
+
 **[Русский](#русский) · [English](#english)**
 
 </div>
