@@ -1,0 +1,113 @@
+name: "Bug report / Сообщить об ошибке"
+description: "Сообщить об ошибке RiderGuild Beta / Report a RiderGuild Beta issue"
+title: "[BUG] "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Русский
+        Спасибо за помощь в тестировании RiderGuild Beta. Заполните поля ниже настолько точно, насколько возможно.
+
+        **Не публикуйте** номера телефонов, точные текущие координаты, токены, ключи, пароли, приватные переписки и другие личные данные.
+
+        ---
+
+        ## English
+        Thank you for helping test RiderGuild Beta. Please complete the fields below as accurately as possible.
+
+        **Do not publish** phone numbers, precise current location coordinates, tokens, keys, passwords, private conversations, or other personal data.
+
+  - type: input
+    id: version
+    attributes:
+      label: "Версия RiderGuild / RiderGuild version"
+      description: "Укажите версию приложения / Enter the app version"
+      placeholder: "1.8.0-beta.11"
+    validations:
+      required: true
+
+  - type: input
+    id: build
+    attributes:
+      label: "Build"
+      description: "Укажите номер сборки / Enter the build number"
+      placeholder: "40"
+    validations:
+      required: true
+
+  - type: input
+    id: phone_model
+    attributes:
+      label: "Модель телефона / Phone model"
+      placeholder: "Samsung Galaxy S24, Pixel 9, ..."
+    validations:
+      required: true
+
+  - type: input
+    id: android_version
+    attributes:
+      label: "Версия Android / Android version"
+      placeholder: "Android 15"
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: "Шаги для воспроизведения / Steps to reproduce"
+      description: "Опишите последовательность действий, после которой возникает ошибка / Describe the sequence of actions that triggers the issue"
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: "Ожидаемое поведение / Expected behavior"
+      description: "Что должно было произойти? / What did you expect to happen?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: "Фактическое поведение / Actual behavior"
+      description: "Что произошло на самом деле? / What actually happened?"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: reproducibility
+    attributes:
+      label: "Повторяемость / Reproducibility"
+      options:
+        - "Всегда / Always"
+        - "Иногда / Sometimes"
+        - "Произошло один раз / Happened once"
+    validations:
+      required: true
+
+  - type: textarea
+    id: attachments
+    attributes:
+      label: "Скриншоты или видео / Screenshots or video"
+      description: "При необходимости перетащите файлы сюда. Убедитесь, что на них нет личных данных / If useful, drag files here. Make sure they contain no personal data"
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: "Дополнительная информация / Additional information"
+      description: "Любая информация, которая поможет воспроизвести или понять проблему / Anything else that may help reproduce or understand the issue"
+
+  - type: checkboxes
+    id: privacy_confirmation
+    attributes:
+      label: "Подтверждение безопасности / Privacy confirmation"
+      options:
+        - label: "Я проверил(а), что в отчёте и вложениях нет номеров телефонов, точных текущих координат, токенов, ключей, паролей, приватных переписок и других личных данных. / I checked that the report and attachments contain no phone numbers, precise current location coordinates, tokens, keys, passwords, private conversations, or other personal data."
+          required: true
