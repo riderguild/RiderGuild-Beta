@@ -2,11 +2,28 @@
 
 ## Русский
 
-### 1.8.0-beta.11 — build 40
+### 1.8.0-beta.12 — build 42
 
-Текущая beta-сборка для тестирования.
+Первая публично распространяемая APK-сборка RiderGuild через GitHub Releases.
 
 Основные направления текущей beta-линии:
+
+- карта и геолокация;
+- клубы, сообщества и клубные места;
+- поездки, маршруты и события;
+- профиль и гараж;
+- SOS и Live Location;
+- уведомления;
+- исправления интерфейса и стабильности;
+- подключение к production API RiderGuild.
+
+APK опубликован как **Pre-release** в GitHub Releases.
+
+### 1.8.0-beta.11 — build 40
+
+Предыдущая beta-сборка для тестирования.
+
+Основные направления beta-линии:
 
 - улучшения профиля пользователя;
 - развитие SOS и Live Location;
@@ -25,11 +42,28 @@
 
 ## English
 
-### 1.8.0-beta.11 — build 40
+### 1.8.0-beta.12 — build 42
 
-Current beta build for testing.
+First publicly distributed RiderGuild APK through GitHub Releases.
 
 Main focus areas of the current beta line:
+
+- map and geolocation;
+- clubs, communities, and club locations;
+- rides, routes, and events;
+- profile and garage;
+- SOS and Live Location;
+- notifications;
+- interface and stability fixes;
+- connection to the RiderGuild production API.
+
+The APK is published as a **Pre-release** in GitHub Releases.
+
+### 1.8.0-beta.11 — build 40
+
+Previous beta build for testing.
+
+Main focus areas of the beta line:
 
 - user profile improvements;
 - continued development of SOS and Live Location;
