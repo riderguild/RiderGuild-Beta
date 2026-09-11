@@ -43,7 +43,12 @@
 
 ### Обратная связь
 
-Воспроизводимые ошибки фиксируйте через GitHub Issues. Не публикуйте номера телефонов, точные координаты, токены, пароли, приватные переписки и другие чувствительные данные.
+- Ошибка: [Bug report](https://github.com/riderguild/RiderGuild-Beta/issues/new?template=bug_report.yml)
+- Предложение: [Feature request](https://github.com/riderguild/RiderGuild-Beta/issues/new?template=feature_request.yml)
+- Общий вопрос: [Discussions](https://github.com/riderguild/RiderGuild-Beta/discussions)
+- Проблема безопасности: [закрытое сообщение об уязвимости](https://github.com/riderguild/RiderGuild-Beta/security/advisories/new)
+
+Не публикуйте номера телефонов, точные текущие координаты, токены, ключи, пароли, приватные переписки и другие чувствительные данные.
 
 ---
 
@@ -83,4 +88,9 @@
 
 ### Feedback
 
-Record reproducible bugs through GitHub Issues. Do not publish phone numbers, precise coordinates, tokens, passwords, private conversations, or other sensitive information.
+- Bug: [Bug report](https://github.com/riderguild/RiderGuild-Beta/issues/new?template=bug_report.yml)
+- Improvement: [Feature request](https://github.com/riderguild/RiderGuild-Beta/issues/new?template=feature_request.yml)
+- General question: [Discussions](https://github.com/riderguild/RiderGuild-Beta/discussions)
+- Security issue: [Private vulnerability reporting](https://github.com/riderguild/RiderGuild-Beta/security/advisories/new)
+
+Do not publish phone numbers, precise current location coordinates, tokens, keys, passwords, private conversations, or other sensitive information.
