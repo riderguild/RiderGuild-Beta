@@ -2,6 +2,26 @@
 
 ## Русский
 
+### 1.8.0-beta.13 — build 43
+
+Стабилизационная beta-сборка для публичного тестирования.
+
+Основные изменения:
+
+- production backend обновлён и выровнен с текущим мобильным клиентом;
+- исправлено восстановление активной SOS-сессии после возврата назад, повторного открытия SOS и возврата в приложение;
+- пока существует активный SOS, новая SOS-форма не открывается и второй активный SOS не создаётся;
+- выбранный помощник получает актуальное состояние и live tracking без обязательного открытия push-уведомления;
+- отправитель и выбранный помощник корректно видят друг друга на SOS-карте;
+- SOS origin, «Вы» и второй участник используют единый географический anchor, подписи больше не смещают маркеры при масштабировании и вращении карты;
+- исправлен нижний SafeArea экрана поездки: кнопка «Маршрут» и остальные действия остаются выше системной навигационной панели Android;
+- улучшена адаптация статистики поездки и длинных заголовков действий на небольших экранах;
+- повторно проверены права создателя клуба, доступ участников, Club Chat и запуск поездки на production backend.
+
+Функция объединённой ленты «Все поездки» в эту стабилизационную сборку не включена и запланирована отдельным этапом.
+
+APK опубликован как **Pre-release** в GitHub Releases.
+
 ### 1.8.0-beta.12 — build 42
 
 Первая публично распространяемая APK-сборка RiderGuild через GitHub Releases.
@@ -41,6 +61,26 @@ APK опубликован как **Pre-release** в GitHub Releases.
 ---
 
 ## English
+
+### 1.8.0-beta.13 — build 43
+
+Stabilization beta release for public testing.
+
+Main changes:
+
+- the production backend was updated and aligned with the current mobile client;
+- active SOS recovery now works after navigating back, reopening SOS, and returning to the app;
+- while an active SOS exists, the app does not open a new SOS form or create a second active request;
+- the selected helper receives the current state and starts live tracking without requiring the push notification to be opened;
+- the sender and selected helper can see each other correctly on the SOS map;
+- SOS origin, “You”, and counterpart markers now use the same geographic anchor, so labels no longer shift marker positions during zoom or map rotation;
+- Ride Detail bottom SafeArea is fixed so Route and other actions stay above Android system navigation;
+- ride statistics and long action titles adapt better on small screens;
+- club creator permissions, member access, Club Chat, and Ride Start availability were rechecked against the production backend.
+
+The combined “All rides” feed is not included in this stabilization build and is planned for a separate follow-up.
+
+The APK is published as a **Pre-release** in GitHub Releases.
 
 ### 1.8.0-beta.12 — build 42
 
