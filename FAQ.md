@@ -14,7 +14,7 @@ APK публикуется в разделе **Releases**. Если там по�
 
 ### Какая версия сейчас актуальна?
 
-Текущая тестовая версия: **1.8.0-beta.11, build 40**.
+Текущая тестовая версия: **1.8.0-beta.13, build 43**.
 
 ### Можно ли устанавливать новую beta поверх старой?
 
@@ -54,7 +54,7 @@ APK builds are published in **Releases**. If no file is available there yet, the
 
 ### What is the current version?
 
-Current test version: **1.8.0-beta.11, build 40**.
+Current test version: **1.8.0-beta.13, build 43**.
 
 ### Can I install a new beta over an older one?
 
