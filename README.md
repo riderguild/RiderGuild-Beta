@@ -8,7 +8,7 @@
 ![Beta](https://img.shields.io/badge/status-Public%20Beta-orange)
 ![Languages](https://img.shields.io/badge/docs-RU%20%7C%20EN-blue)
 
-### [⬇️ Скачать последнюю APK / Download latest APK](https://github.com/riderguild/RiderGuild-Beta/releases/download/v1.8.0-beta.13/RiderGuild-1.8.0-beta.13-build43-release.apk)
+### [⬇️ Скачать последнюю APK / Download latest APK](https://github.com/riderguild/RiderGuild-Beta/releases/download/v1.8.0-beta.15/RiderGuild-1.8.0-beta.15-build45-release.apk)
 
 **[Русский](#русский) · [English](#english)**
 
@@ -23,15 +23,15 @@
 
 | | |
 |---|---|
-| **Текущая версия / Current version** | `1.8.0-beta.13` |
-| **Build** | `43` |
+| **Текущая версия / Current version** | `1.8.0-beta.15` |
+| **Build** | `45` |
 | **Платформа / Platform** | Android |
 | **APK** | Доступен в Releases / Available in Releases |
 | **Стадия / Stage** | Public Beta / Pre-release |
 
 ### Быстрые ссылки / Quick links
 
-[**Скачать APK / Download APK**](https://github.com/riderguild/RiderGuild-Beta/releases/download/v1.8.0-beta.13/RiderGuild-1.8.0-beta.13-build43-release.apk) · [**Сообщить об ошибке / Report a bug**](https://github.com/riderguild/RiderGuild-Beta/issues/new?template=bug_report.yml) · [**Предложить улучшение / Suggest a feature**](https://github.com/riderguild/RiderGuild-Beta/issues/new?template=feature_request.yml) · [**Обсуждения / Discussions**](https://github.com/riderguild/RiderGuild-Beta/discussions) · [**Что тестировать / Testing Guide**](TESTING.md) · [**История изменений / Changelog**](CHANGELOG.md) · [**FAQ**](FAQ.md) · [**Поддержка / Support**](SUPPORT.md) · [**Приватность / Privacy**](PRIVACY.md) · [**Безопасность / Security**](SECURITY.md) · [**Правила сообщества / Community Guidelines**](CODE_OF_CONDUCT.md)
+[**Скачать APK / Download APK**](https://github.com/riderguild/RiderGuild-Beta/releases/download/v1.8.0-beta.15/RiderGuild-1.8.0-beta.15-build45-release.apk) · [**Сообщить об ошибке / Report a bug**](https://github.com/riderguild/RiderGuild-Beta/issues/new?template=bug_report.yml) · [**Предложить улучшение / Suggest a feature**](https://github.com/riderguild/RiderGuild-Beta/issues/new?template=feature_request.yml) · [**Обсуждения / Discussions**](https://github.com/riderguild/RiderGuild-Beta/discussions) · [**Что тестировать / Testing Guide**](TESTING.md) · [**История изменений / Changelog**](CHANGELOG.md) · [**FAQ**](FAQ.md) · [**Поддержка / Support**](SUPPORT.md) · [**Приватность / Privacy**](PRIVACY.md) · [**Безопасность / Security**](SECURITY.md) · [**Правила сообщества / Community Guidelines**](CODE_OF_CONDUCT.md)
 
 ---
 
@@ -43,11 +43,11 @@
 
 ## Текущая beta
 
-**RiderGuild 1.8.0-beta.13 — build 43**
+**RiderGuild 1.8.0-beta.15 — build 45**
 
 RiderGuild находится в активной разработке. Beta-сборки могут содержать ошибки, незавершённые функции и изменения интерфейса.
 
-Основные изменения beta.13: стабилизация SOS и Live Location, исправление восстановления активной SOS-сессии, корректное взаимное отображение участников на SOS-карте, исправления SafeArea экрана поездки и повторная проверка клубных прав и сценариев на production backend.
+Основные изменения beta.15: критические входящие SOS-уведомления, более стабильное восстановление активной SOS-сессии после возврата в приложение, обновление цели SOS-маршрута по свежим координатам, улучшенная частота обновления геолокации в навигации и отображение следующего манёвра.
 
 ## Установка Android beta
 
@@ -59,7 +59,7 @@ APK публикуется в разделе **Releases** этого репоз�
 4. Если Android запросит разрешение, разрешите установку приложений из используемого источника.
 5. Установите APK поверх предыдущей beta или как новую установку.
 
-Текущая публичная сборка: **1.8.0-beta.13 — build 43**.
+Текущая публичная сборка: **1.8.0-beta.15 — build 45**.
 
 ## Что особенно важно тестировать
 
@@ -110,11 +110,11 @@ APK публикуется в разделе **Releases** этого репоз�
 
 ## Current beta
 
-**RiderGuild 1.8.0-beta.13 — build 43**
+**RiderGuild 1.8.0-beta.15 — build 45**
 
 RiderGuild is under active development. Beta builds may contain bugs, unfinished features, and interface changes.
 
-Beta.13 focuses on SOS and Live Location stabilization, active SOS recovery, correct mutual participant display on the SOS map, Ride Detail SafeArea fixes, and rechecking club permissions and flows against the production backend.
+Beta.15 focuses on critical incoming SOS alerts, more reliable active SOS recovery after returning to the app, refreshed SOS navigation targets, improved navigation location cadence, and upcoming-maneuver guidance.
 
 ## Installing the Android beta
 
@@ -126,7 +126,7 @@ The APK is published in the repository **Releases** section.
 4. If Android asks, allow installation from the source you are using.
 5. Install the APK over the previous beta or as a fresh installation.
 
-Current public build: **1.8.0-beta.13 — build 43**.
+Current public build: **1.8.0-beta.15 — build 45**.
 
 ## What is especially useful to test
 
