@@ -2,6 +2,21 @@
 
 ## Русский
 
+### 1.8.0-beta.15 — build 45
+
+Текущая публичная beta-сборка для тестирования.
+
+Основные изменения:
+
+- входящие SOS-уведомления переведены на критический сценарий отображения;
+- улучшена частота обновления геолокации во время навигации;
+- при навигации к автору SOS используется актуальная цель по свежим координатам;
+- добавлено отображение следующего манёвра;
+- усилена проверка и восстановление активной SOS-сессии после возврата в приложение;
+- backend обновлён и выровнен с beta.15, включая очистку SOS-уведомлений.
+
+APK опубликован как **Pre-release** в GitHub Releases.
+
 ### 1.8.0-beta.13 — build 43
 
 Стабилизационная beta-сборка для публичного тестирования.
@@ -61,6 +76,21 @@ APK опубликован как **Pre-release** в GitHub Releases.
 ---
 
 ## English
+
+### 1.8.0-beta.15 — build 45
+
+Current public beta build for testing.
+
+Main changes:
+
+- incoming SOS notifications use the critical alert flow;
+- navigation location cadence is improved;
+- SOS navigation refreshes the target using fresh coordinates;
+- upcoming maneuver guidance is shown;
+- active SOS state validation and recovery after app resume is improved;
+- the production backend is aligned with beta.15, including SOS notification cleanup.
+
+The APK is published as a **Pre-release** in GitHub Releases.
 
 ### 1.8.0-beta.13 — build 43
 
