@@ -8,7 +8,7 @@
 ![Beta](https://img.shields.io/badge/status-Public%20Beta-orange)
 ![Languages](https://img.shields.io/badge/docs-RU%20%7C%20EN-blue)
 
-### [⬇️ Скачать последнюю APK / Download latest APK](https://github.com/riderguild/RiderGuild-Beta/releases/download/v1.8.0-beta.15/RiderGuild-1.8.0-beta.15-build45-release.apk)
+### [⬇️ Скачать последнюю APK / Download latest APK](https://riderguild.ru/api/apk)
 
 **[Русский](#русский) · [English](#english)**
 
@@ -19,19 +19,22 @@
 
 ---
 
+> Android 157 опубликован 30.10.2026. Обновление Web с исправлениями карты, возврата к спискам и загрузки событий опубликовано 03.11.2026.
+> Android 157 was published on 2026-10-30. The Web update for maps, list context and event loading was published on 2026-11-03.
+
 ## Статус / Status
 
 | | |
 |---|---|
-| **Текущая версия / Current version** | `1.8.0-beta.15` |
-| **Build** | `45` |
+| **Текущая версия / Current version** | `1.8.0-beta.20` |
+| **Build** | `157` |
 | **Платформа / Platform** | Android |
 | **APK** | Доступен в Releases / Available in Releases |
 | **Стадия / Stage** | Public Beta / Pre-release |
 
 ### Быстрые ссылки / Quick links
 
-[**Скачать APK / Download APK**](https://github.com/riderguild/RiderGuild-Beta/releases/download/v1.8.0-beta.15/RiderGuild-1.8.0-beta.15-build45-release.apk) · [**Сообщить об ошибке / Report a bug**](https://github.com/riderguild/RiderGuild-Beta/issues/new?template=bug_report.yml) · [**Предложить улучшение / Suggest a feature**](https://github.com/riderguild/RiderGuild-Beta/issues/new?template=feature_request.yml) · [**Обсуждения / Discussions**](https://github.com/riderguild/RiderGuild-Beta/discussions) · [**Что тестировать / Testing Guide**](TESTING.md) · [**История изменений / Changelog**](CHANGELOG.md) · [**FAQ**](FAQ.md) · [**Поддержка / Support**](SUPPORT.md) · [**Приватность / Privacy**](PRIVACY.md) · [**Безопасность / Security**](SECURITY.md) · [**Правила сообщества / Community Guidelines**](CODE_OF_CONDUCT.md)
+[**Скачать APK / Download APK**](https://riderguild.ru/api/apk) · [**Сообщить об ошибке / Report a bug**](https://github.com/riderguild/RiderGuild-Beta/issues/new?template=bug_report.yml) · [**Предложить улучшение / Suggest a feature**](https://github.com/riderguild/RiderGuild-Beta/issues/new?template=feature_request.yml) · [**Обсуждения / Discussions**](https://github.com/riderguild/RiderGuild-Beta/discussions) · [**Что тестировать / Testing Guide**](TESTING.md) · [**История изменений / Changelog**](CHANGELOG.md) · [**FAQ**](FAQ.md) · [**Поддержка / Support**](SUPPORT.md) · [**Приватность / Privacy**](PRIVACY.md) · [**Безопасность / Security**](SECURITY.md) · [**Правила сообщества / Community Guidelines**](CODE_OF_CONDUCT.md)
 
 ---
 
@@ -43,15 +46,15 @@
 
 ## Текущая beta
 
-**RiderGuild 1.8.0-beta.15 — build 45**
+**RiderGuild 1.8.0-beta.20 — build 157**
 
 RiderGuild находится в активной разработке. Beta-сборки могут содержать ошибки, незавершённые функции и изменения интерфейса.
 
-Основные изменения beta.15: критические входящие SOS-уведомления, более стабильное восстановление активной SOS-сессии после возврата в приложение, обновление цели SOS-маршрута по свежим координатам, улучшенная частота обновления геолокации в навигации и отображение следующего манёвра.
+В опубликованный 157 входят входящие и непрочитанные сообщения 156, копирование текста, переход по ссылке с возвратом и просмотр нескольких фотографий. Навигация 155 и ранее принятые функции сохранены. 156 отдельно не публиковался.
 
 ## Установка Android beta
 
-APK публикуется в разделе **Releases** этого репозитория.
+Официальная загрузка: **[riderguild.ru/api/apk](https://riderguild.ru/api/apk)**. Web: **[riderguild.ru](https://riderguild.ru/)**. Прежние APK сохранены в Releases.
 
 1. Откройте **Releases**.
 2. Выберите последнюю beta-версию.
@@ -59,7 +62,7 @@ APK публикуется в разделе **Releases** этого репоз�
 4. Если Android запросит разрешение, разрешите установку приложений из используемого источника.
 5. Установите APK поверх предыдущей beta или как новую установку.
 
-Текущая публичная сборка: **1.8.0-beta.15 — build 45**.
+Текущая публичная сборка: **1.8.0-beta.20 — build 157**.
 
 ## Что особенно важно тестировать
 
@@ -110,15 +113,15 @@ APK публикуется в разделе **Releases** этого репоз�
 
 ## Current beta
 
-**RiderGuild 1.8.0-beta.15 — build 45**
+**RiderGuild 1.8.0-beta.20 — build 157**
 
 RiderGuild is under active development. Beta builds may contain bugs, unfinished features, and interface changes.
 
-Beta.15 focuses on critical incoming SOS alerts, more reliable active SOS recovery after returning to the app, refreshed SOS navigation targets, improved navigation location cadence, and upcoming-maneuver guidance.
+Published build 157 includes the156 inbox and unread messages, text copying, links with return, and multi-photo viewing. Navigation155 and earlier accepted features are retained. Build156 was not published separately.
 
 ## Installing the Android beta
 
-The APK is published in the repository **Releases** section.
+Official download: **[riderguild.ru/api/apk](https://riderguild.ru/api/apk)**. Web: **[riderguild.ru](https://riderguild.ru/)**. Previous APK assets remain in Releases.
 
 1. Open **Releases**.
 2. Select the latest beta version.
@@ -126,7 +129,7 @@ The APK is published in the repository **Releases** section.
 4. If Android asks, allow installation from the source you are using.
 5. Install the APK over the previous beta or as a fresh installation.
 
-Current public build: **1.8.0-beta.15 — build 45**.
+Current public build: **1.8.0-beta.20 — build 157**.
 
 ## What is especially useful to test
 

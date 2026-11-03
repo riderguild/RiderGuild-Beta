@@ -2,6 +2,8 @@
 
 **Русский | English**
 
+> Актуально на 03.11.2026: Android 157 и исправления Web опубликованы. / Current as of 2026-11-03: Android 157 and the Web improvements are published.
+
 ## Русский
 
 ### Это исходный код RiderGuild?
@@ -10,11 +12,11 @@
 
 ### Где скачать APK?
 
-APK публикуется в разделе **Releases**. Если там пока нет файла, значит публичная сборка ещё не загружена.
+Официальный вход: **[Скачать APK](https://riderguild.ru/api/apk)**. Текущий Web: **[riderguild.ru](https://riderguild.ru/)**. Исторические APK сохранены в Releases.
 
 ### Какая версия сейчас актуальна?
 
-Текущая тестовая версия: **1.8.0-beta.13, build 43**.
+Текущая тестовая версия: **1.8.0-beta.20, build 157**.
 
 ### Можно ли устанавливать новую beta поверх старой?
 
@@ -50,11 +52,11 @@ No. This repository is for public beta testing. The RiderGuild application sourc
 
 ### Where can I download the APK?
 
-APK builds are published in **Releases**. If no file is available there yet, the public build has not been uploaded yet.
+Use the official **[APK download](https://riderguild.ru/api/apk)** or **[Web](https://riderguild.ru/)**. Historical APK assets remain in Releases.
 
 ### What is the current version?
 
-Current test version: **1.8.0-beta.13, build 43**.
+Current test version: **1.8.0-beta.20, build 157**.
 
 ### Can I install a new beta over an older one?
 
