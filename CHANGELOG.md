@@ -2,9 +2,21 @@
 
 ## Русский
 
+### Обновление Web — опубликовано 03.11.2026
+
+- Понятный отказ WebGL2 и восстановление временных ошибок карты; поиск и сообщения разведены.
+- Возврат к списку маршрутов/поездок сохраняет фильтры, черновик, страницы и позицию.
+- Публичные события загружаются независимо от личной ленты и клубных прав.
+
+### 1.8.0-beta.20 — build 157, опубликован 30.10.2026
+
+Единый пакет156+157: входящие/непрочитанные, копирование текста, ссылки и просмотр фотографий.156 отдельно не публиковался. [Официальная загрузка](https://riderguild.ru/api/apk).
+
+Ограничение: системный Web Clipboard физически не проверен доступным инструментом; обработчики проверены отдельно. Дорожная приёмка не заявлена. Исторические записи ниже сохранены без изменения.
+
 ### 1.8.0-beta.15 — build 45
 
-Текущая публичная beta-сборка для тестирования.
+Историческая публичная beta-сборка; текущий выпуск указан выше.
 
 Основные изменения:
 
@@ -77,9 +89,21 @@ APK опубликован как **Pre-release** в GitHub Releases.
 
 ## English
 
+### Web update — published2026-11-03
+
+- Clear WebGL2 limitation and transient map recovery; separate search and notices.
+- Route/ride return retains filters, draft, pages and position.
+- Public events load independently from personal events and club permissions.
+
+### 1.8.0-beta.20 — build 157, published2026-10-30
+
+Combined156+157: inbox/unread messages, text copying, links and photo viewing. No separate156 release. [Official download](https://riderguild.ru/api/apk).
+
+Limitation: system Web Clipboard was not physically verified by the available tool; handler checks were reused. No road acceptance claimed. Historical entries below remain unchanged.
+
 ### 1.8.0-beta.15 — build 45
 
-Current public beta build for testing.
+Historical public beta build; see the current release above.
 
 Main changes:
 
